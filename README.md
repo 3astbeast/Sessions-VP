@@ -11,6 +11,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3astbeast/Sessions-VP/refs/heads/main/MNQ_60Minute_20260310_143601.png" width="800" alt="RedTail EMA Cloud Screenshot"/>
+</p>
+
+---
+
 ## Credit
 
 Original TradingView Pine Script by **[@notprofessorgreen](https://twitter.com/notprofgreen)** (lucymatos). NinjaTrader 8 conversion by **[@_hawkeye_13](https://twitter.com/_hawkeye_13)** (RedTail Indicators).
