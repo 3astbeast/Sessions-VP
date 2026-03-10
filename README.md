@@ -13,7 +13,7 @@
 
 ## Credit
 
-Original TradingView Pine Script by **[@notprofessorgreen](https://twitter.com/notprofessorgreen)** (lucymatos). NinjaTrader 8 conversion by **[@_hawkeye_13](https://twitter.com/_hawkeye_13)** (RedTail Indicators).
+Original TradingView Pine Script by **[@notprofessorgreen](https://twitter.com/notprofgreen)** (lucymatos). NinjaTrader 8 conversion by **[@_hawkeye_13](https://twitter.com/_hawkeye_13)** (RedTail Indicators).
 
 ---
 
